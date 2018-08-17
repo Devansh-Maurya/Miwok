@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_898ababce7b068491a8bf35ff27716d2c94f6f56.jar" />
+    </item>
+    <item
+        jar="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_0f27d6f01d65f0fe8a2ddb4d855ae9647678f502.jar" />
+    </item>
+    <item
+        jar="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_8959ddfe9d3a2b563140f3a9ad2615daeddfeb04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/devansh/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/9394aa8bdb97607bf0f39563cd74700b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/devansh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/8c657517ea84a1a43624bbb66af844f5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        jar="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_9d611ab8dfdcbc3e72a2ed846bcef24a9b04e696.jar" />
+    </item>
+    <item
+        jar="/home/devansh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_efe6e300d209e88e569655c93e4e14e41434e69e.jar" />
+    </item>
+    <item
+        jar="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_2a072aafa06ebe13caa9caf34d8c4e13201c5748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/devansh/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/062eaa384717ae30f8ceefb2055cf304/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/devansh/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/062eaa384717ae30f8ceefb2055cf304/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/devansh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/devansh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.3.0.aar/a274c3ff994027b5d7dd4d0ff1d0af82/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/devansh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/e70ef20fdf798c91ede71fe8f496c109/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        jar="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_9fff48e315555b6f1ccebb273f3299648a430d1c.jar" />
+    </item>
+    <item
+        jar="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_c073ba5868ce4514b9357b212945f08dfbc118f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/devansh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/afaba2747e63e0808ad12620453fda97/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="27.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/devansh/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+
+</items>
